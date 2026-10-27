@@ -1,0 +1,10 @@
+build/
+.tmp/
+.playwright-mcp/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.env.neon.local
